@@ -1,0 +1,14 @@
+name: GenderArticle
+title: GenderArticle
+username:
+account: milicapajkic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10842396
+bundleId: 8079431
+url: https://milicapajkic.shinyapps.io/GenderArticle/
+when: 1703362134.58506
+lastSyncTime: 1703362134.58507
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
